@@ -4,3 +4,4 @@ stim-track-events/sub-*_events.tsv
 *.svg
 *.png
 *.pdf
+.DS_Store

@@ -17,7 +17,7 @@ Manuscript in preparation – stay tuned for a preprint, coming soon!
 
 ### How to contribute
 Before running any of the notebooks, please set up the following gitconfig filter to avoid metadata clutter:
-
-- Make sure nbconvert is installed (pip install nbconvert or conda install nbconvert)
+- install required packages: `pip install -r requirements.txt`
+- Make sure nbconvert is installed globally (`pip install nbconvert` or `conda install nbconvert`)
 - Windows: in a bash terminal, run: `bash setup-git-jupyter-filters.sh`
 - Mac: run `chmod +x setup-git-jupyter-filters.sh` then `./setup-git-jupyter-filters.sh `

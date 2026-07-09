@@ -5,3 +5,4 @@ stim-track-events/sub-*_events.tsv
 *.png
 *.pdf
 .DS_Store
+.vscode/launch.json
